@@ -1,0 +1,24 @@
+{
+    "name": "x-1873497-personal-fin",
+    "version": "1.0.0",
+    "description": "[BUILD AGENT GENERATED]:  A comprehensive personal finance management application for tracking expenses, managing budgets, and monitoring income with an intuitive dashboard interface",
+    "license": "UNLICENSED",
+    "scripts": {
+        "build": "now-sdk build",
+        "deploy": "now-sdk install",
+        "transform": "now-sdk transform",
+        "types": "now-sdk dependencies"
+    },
+    "devDependencies": {
+        "@servicenow/sdk": "4.2.0",
+        "@servicenow/glide": "26.0.1",
+        "eslint": "8.50.0",
+        "@servicenow/eslint-plugin-sdk-app-plugin": "4.2.0"
+    },
+    "dependencies": {
+        "react": "18.2.0",
+        "react-dom": "18.2.0",
+        "chart.js": "4.4.0",
+        "react-chartjs-2": "5.2.0"
+    }
+}
