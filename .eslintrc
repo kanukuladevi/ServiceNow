@@ -8,4 +8,6 @@
   },
   "plugins": ["n","@servicenow/sdk-app-plugin"],
   "extends": ["plugin:@servicenow/sdk-app-plugin/recommended"]
+
+
 }
