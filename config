@@ -6,6 +6,5 @@
 	symlinks = false
 	ignorecase = true
 [user]
-
 	email = admin@example.com
 	name = System Administrator
