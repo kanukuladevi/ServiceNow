@@ -13,7 +13,6 @@ export default function BudgetManager({ budgets, service, onUpdate }) {
     active: true
   });
 
-
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
