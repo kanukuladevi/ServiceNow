@@ -5,7 +5,6 @@
 ║              Family Expense Calculation System - ServiceNow                ║
 ║                                                                            ║
 ╚════════════════════════════════════════════════════════════════════════════╝
-
 PROJECT DETAILS
 ═══════════════════════════════════════════════════════════════════════════════
 Project Name:        Family Expense Calculation System
