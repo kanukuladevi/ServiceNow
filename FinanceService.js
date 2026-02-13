@@ -4,6 +4,7 @@ export class FinanceService {
       "Content-Type": "application/json",
       "Accept": "application/json",
       "X-UserToken": window.g_ck
+      
     };
     
   } 
