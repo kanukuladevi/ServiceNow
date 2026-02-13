@@ -6,6 +6,7 @@ export class FinanceService {
       "X-UserToken": window.g_ck
     };
   }
+  
 
   async handleResponse(response) {
     if (!response.ok) {
