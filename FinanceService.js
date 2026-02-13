@@ -5,6 +5,7 @@ export class FinanceService {
       "Accept": "application/json",
       "X-UserToken": window.g_ck
     };
+    
   } 
   
   async handleResponse(response) {
