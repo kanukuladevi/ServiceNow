@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-
 export default function BudgetManager({ budgets, service, onUpdate }) {
   const [showForm, setShowForm] = useState(false);
   const [editingBudget, setEditingBudget] = useState(null);
