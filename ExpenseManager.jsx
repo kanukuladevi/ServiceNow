@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-
 export default function ExpenseManager({ expenses, service, onUpdate }) {
   const [showForm, setShowForm] = useState(false);
   const [editingExpense, setEditingExpense] = useState(null);
