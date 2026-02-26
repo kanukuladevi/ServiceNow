@@ -10,7 +10,6 @@ export default function ExpenseManager({ expenses, service, onUpdate }) {
     category: '',
     payment_method: ''
   });
-
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
