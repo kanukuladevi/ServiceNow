@@ -13,6 +13,7 @@ export default function ExpenseManager({ expenses, service, onUpdate }) {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
+      
       if (editingExpense) {
         await service.updateExpense(service.extractSysId(editingExpense.sys_id), formData);
       } else {
