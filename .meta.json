@@ -9,6 +9,7 @@
       "name": "eslint-plugin-eslint-plugin",
       "resolved": "https://registry.npmjs.org/eslint-plugin-eslint-plugin/-/eslint-plugin-eslint-plugin-5.0.0.tgz"
     },
+    
     "undici": {
       "name": "undici",
       "resolved": "https://registry.npmjs.org/undici/-/undici-6.19.8.tgz"
