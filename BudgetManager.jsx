@@ -5,7 +5,7 @@ export default function BudgetManager({ budgets, service, onUpdate }) {
   const [formData, setFormData] = useState({
     name: '',
 
-    
+  
     category: '',
     allocated_amount: '',
     spent_amount: '0',
